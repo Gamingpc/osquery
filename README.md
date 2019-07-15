@@ -13,6 +13,7 @@ Available for Linux, macOS, Windows and FreeBSD.
 
 | Platform | Build status  | | | |
 |----------|---------------|---|---|---|
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/18e825c441644a3aae7749cb248fdd78)](https://app.codacy.com/app/GSITE/osquery?utm_source=github.com&utm_medium=referral&utm_content=Gamingpc/osquery&utm_campaign=Badge_Grade_Dashboard)
 |MacOS 10.14  | [![Build Status](https://dev.azure.com/trailofbits/osquery/_apis/build/status/osquery?branchName=master&jobName=macOS)](https://dev.azure.com/trailofbits/osquery/_build/latest?definitionId=6&branchName=master) | | **Homepage:** | https://osquery.io
 |Ubuntu 18.04 | [![Build Status](https://dev.azure.com/trailofbits/osquery/_apis/build/status/osquery?branchName=master&jobName=Linux)](https://dev.azure.com/trailofbits/osquery/_build/latest?definitionId=6&branchName=master) | | **Downloads:** | https://osquery.io/downloads
 |Windows Server 2016 | [![Build Status](https://dev.azure.com/trailofbits/osquery/_apis/build/status/osquery?branchName=master&jobName=Windows)](https://dev.azure.com/trailofbits/osquery/_build/latest?definitionId=6&branchName=master) | | **Tables:** | https://osquery.io/schema
